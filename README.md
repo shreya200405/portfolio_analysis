@@ -57,7 +57,7 @@ Shows how each stock’s price has changed over the selected time period.
 ### 🔗 Correlation Between Stocks
 Visualizes how closely the stock movements are related.  
 A value closer to **1** means they move together; closer to **-1** means they move in opposite directions.  
-![Correlation Matrix](images/correlation_matrix.png)
+![correlation matrix](correlation_matrix.png)
 
 ---
 
