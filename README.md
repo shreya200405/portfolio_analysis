@@ -21,7 +21,7 @@ The goal of this project is to:
 - **Python**
 - **NumPy** – for numerical calculations  
 - **Pandas** – for data handling and analysis  
-- **Matplotlib / Seaborn** – for visualizations  
+- **Matplotlib** – for visualizations  
 - **yfinance** – for fetching real-time stock data  
 
 ---
