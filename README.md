@@ -50,7 +50,7 @@ The data is fetched using the **yfinance** library for Indian stocks such as:
 
 ### 📊 Stock Price Trends Over Time
 Shows how each stock’s price has changed over the selected time period.  
-![Stock price trends](images/stock_price_trends.png)
+![stock price trends](images/stock_price_trends.png)
 
 ---
 
