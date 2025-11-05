@@ -63,7 +63,7 @@ A value closer to **1** means they move together; closer to **-1** means they mo
 
 ### 💹 Portfolio vs Individual Stocks (Cumulative Returns)
 Compares portfolio growth with individual stock growth to measure overall performance.  
-![Cumulative Returns](images/cumulative_returns.png)
+![cumulative returns](cumulative_returns.png)
 
 ---
 
