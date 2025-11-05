@@ -1,12 +1,12 @@
-#  Portfolio Analysis using Python
+# 📊 Portfolio Analysis using Python
 
-##  Project Overview
+## 📘 Project Overview
 This project analyzes multiple stock prices, calculates returns, and helps understand portfolio performance over time.  
 It compares individual stock behavior with the overall portfolio, measures risk, and identifies the best-performing assets.
 
 ---
 
-##  Objective
+## 🎯 Objectives
 The goal of this project is to:
 
 - Fetch stock price data using Python  
@@ -17,7 +17,7 @@ The goal of this project is to:
 
 ---
 
-##  Tools & Libraries Used
+## 🛠️ Tools & Libraries Used
 - **Python**
 - **NumPy** – for numerical calculations  
 - **Pandas** – for data handling and analysis  
@@ -26,7 +26,7 @@ The goal of this project is to:
 
 ---
 
-##  Dataset
+## 💾 Dataset
 The data is fetched using the **yfinance** library for Indian stocks such as:
 
 - HDFC Bank (`HDFCBANK.NS`)  
@@ -36,7 +36,7 @@ The data is fetched using the **yfinance** library for Indian stocks such as:
 
 ---
 
-##  Process
+## ⚙️ Process
 
 1. Import stock data using **yfinance**  
 2. Calculate **daily returns** and **cumulative returns**  
@@ -46,25 +46,28 @@ The data is fetched using the **yfinance** library for Indian stocks such as:
 
 ---
 
-##  Output Visualizations
+## 📈 Output Visualizations
 
-
-### Stock Price Trends Over Time
+### 📊 Stock Price Trends Over Time
 Shows how each stock’s price has changed over the selected time period.  
 ![Stock Price Trends](images/stock_price_trends.png)
 
-###  Correlation Between Stocks
+---
+
+### 🔗 Correlation Between Stocks
 Visualizes how closely the stock movements are related.  
 A value closer to **1** means they move together; closer to **-1** means they move in opposite directions.  
 ![Correlation Matrix](images/correlation_matrix.png)
 
-###  Portfolio vs Individual Stocks (Cumulative Returns)
+---
+
+### 💹 Portfolio vs Individual Stocks (Cumulative Returns)
 Compares portfolio growth with individual stock growth to measure overall performance.  
 ![Cumulative Returns](images/cumulative_returns.png)
 
 ---
 
-##  Final Results
+## 🧾 Final Results
 
 - Calculated **portfolio returns**, **volatility**, and **best-performing stock**  
 - Found that **diversification reduces overall risk**  
@@ -72,7 +75,7 @@ Compares portfolio growth with individual stock growth to measure overall perfor
 
 ---
 
-##  Key Learnings
+## 🧠 Key Learnings
 
 - How to analyze financial data using Python  
 - Importance of diversification in portfolio management  
@@ -80,7 +83,7 @@ Compares portfolio growth with individual stock growth to measure overall perfor
 
 ---
 
-##  Future Enhancements
+## 🚀 Future Enhancements
 
 - Add more stocks for broader analysis  
 - Include **risk-adjusted metrics** like the **Sharpe Ratio**  
@@ -88,8 +91,19 @@ Compares portfolio growth with individual stock growth to measure overall perfor
 
 ---
 
-##  How to Run
+### 📂 Project Files
+| File | Description |
+|------|--------------|
+| `portfolio.ipynb` | Jupyter notebook with complete analysis |
+| `stock_price_trends.png` | Stock price trend visualization |
+| `correlation_matrix.png` | Heatmap showing stock correlations |
+| `cumulative_returns.png` | Portfolio vs individual stock performance |
+| `README.md` | Project documentation |
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/shreya200405/portfolio-analysis.git
+---
+
+### 👩‍💻 Author
+**Shreya Goud**  
+📍 Hyderabad, India  
+💬 “Turning data into financial insights through Python and visualization.”
+
